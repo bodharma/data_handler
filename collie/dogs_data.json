@@ -1,0 +1,3029 @@
+{
+  "Bitches": {
+    "FELICITY IN BLUE DE CATHYJA": {
+      "link": "our_collies.php?id=33&cat=Bitches&name=FELICITY IN BLUE DE CATHYJA",
+      "details": {
+        "images_list": [
+          "images/kolli/1.jpg",
+          "/userfiles/lucy.jpg",
+          "/userfiles/lucy1.jpg",
+          "/userfiles/lusy2.jpg",
+          "/userfiles/28_07_2012_DSC01036.jpg",
+          "/userfiles/28_07_2012_DSC01053.jpg",
+          "/userfiles/image/felicity/2.jpg",
+          "/userfiles/image/felicity/1.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "Tricky Trooper de Cathyja": {
+              "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja": {
+                "Flash Black de Cabrenysset": {
+                  "Super Ted of Lynway": {},
+                  "Chyta de la Vallezanne": {}
+                },
+                "Jewel Bleue du Cret du Loup": {
+                  "Ch Forsyd Jones Black de la Jasserie": {},
+                  "Geisha Bleue du Cret du Loup": {}
+                }
+              },
+              "Ouest Side Story Black de Cathyja": {
+                "Mickey Rourke of Rhapsody Land": {
+                  "Lynway Show Stealer": {},
+                  "Julia Roberts of Moon River": {}
+                },
+                "Nausicaa Brune de Cathyja": {
+                  "Flash Black de Cabrenysset": {},
+                  "Jewel Bleue du Cret du Loup": {}
+                }
+              }
+            },
+            "Beida Black de Cathyja": {
+              "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja": {
+                "Flash Black de Cabrenysset": {
+                  "Super Ted of Lynway": {},
+                  "Chyta de la Vallezanne": {}
+                },
+                "Jewel Bleue du Cret du Loup": {
+                  "Ch Forsyd Jones Black de la Jasserie": {},
+                  "Geisha Bleue du Cret du Loup": {}
+                }
+              },
+              "Ch Silvermoor`s Black Opal at Buebezi": {
+                "Silvermoor`s Spritzer": {
+                  "Pelido Forgotten Dreams": {},
+                  "Silvermoor`s Barley Sugar": {}
+                },
+                "Silvermoor`s May Bee": {
+                  "Amalie Mild Affair": {},
+                  "Silvermoor`s Busy Lizzie": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Tricky Trooper de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset",
+            "Super Ted of Lynway"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset",
+            "Chyta de la Vallezanne"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup",
+            "Ch Forsyd Jones Black de la Jasserie"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup",
+            "Geisha Bleue du Cret du Loup"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja",
+            "Mickey Rourke of Rhapsody Land",
+            "Lynway Show Stealer"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja",
+            "Mickey Rourke of Rhapsody Land",
+            "Julia Roberts of Moon River"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja",
+            "Nausicaa Brune de Cathyja",
+            "Flash Black de Cabrenysset"
+          ],
+          [
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja",
+            "Nausicaa Brune de Cathyja",
+            "Jewel Bleue du Cret du Loup"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset",
+            "Super Ted of Lynway"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset",
+            "Chyta de la Vallezanne"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup",
+            "Ch Forsyd Jones Black de la Jasserie"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Int.Ch, Fr Ch\nCh Narwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup",
+            "Geisha Bleue du Cret du Loup"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s Spritzer",
+            "Pelido Forgotten Dreams"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s Spritzer",
+            "Silvermoor`s Barley Sugar"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Amalie Mild Affair"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Silvermoor`s Busy Lizzie"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Beida Black de Cathyja",
+            "Ch Silvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Lusy\"",
+          "Junior Champion of Ukraine,",
+          "Junior Champion of Russia, 4xBOB",
+          "CEA clear",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NM, PRA NN, MDR1 -/-",
+          "bitch, born: 24.11.2010\nBreeder: Ragueneau Jaques & Catherine (France)"
+        ]
+      }
+    },
+    "TIRAMISU FOR TOP LESS": {
+      "link": "our_collies.php?id=31&cat=Bitches&name=TIRAMISU FOR TOP LESS",
+      "details": {
+        "images_list": [
+          "images/kolli/amelie4.jpg",
+          "/userfiles/image/tiramisu/amelie2.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer": {
+              "Seven`Up du Clos de Montamer": {
+                "Rackham le Rouge du Clos des Duchesses": {
+                  "Hair of Charm de Florange": {},
+                  "Nos Jours Heureux de la Petite Oriere": {}
+                },
+                "Orea du Clos de Montamer": {
+                  "Murphy Black du Chemin des Randonnees": {},
+                  "Lorry`Love du Clos de Montamer": {}
+                }
+              },
+              "VICE CH FR\nRhapsody in Blue du Clos de Montamer": {
+                "CH\u00a0 FR, INT CH,\nELITE A\nNarwick Silver Blue de Cathyja": {
+                  "Flash Black de Cabrenysset": {},
+                  "Jewel Bleue du Cret du Loup": {}
+                },
+                "Orea du Clos de Montamer": {
+                  "Murphy Black du Chemin des Randonnees": {},
+                  "Lorry`Love du Clos de Montamer": {}
+                }
+              }
+            },
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu": {
+              "JCH MOL, JCH UA, JCH RU, CH MOL,\nCH UA\nBachelor Boy des Beldones": {
+                "Tennesse des Beldones": {
+                  "Int.CH, FR.CH Carostar C`Est La Vie": {},
+                  "Kourika Kiss in the Dark": {}
+                },
+                "Int.CH. Lynaire Something Special": {
+                  "Jopium Touch of Darkness": {},
+                  "GB.CH.Lynaire Blue Lace": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada": {
+                "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes Julay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "CH RU Lynaire Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses",
+            "Hair of Charm de Florange"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses",
+            "Nos Jours Heureux de la Petite Oriere"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Murphy Black du Chemin des Randonnees"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Lorry`Love du Clos de Montamer"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "VICE CH FR\nRhapsody in Blue du Clos de Montamer",
+            "CH\u00a0 FR, INT CH,\nELITE A\nNarwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "VICE CH FR\nRhapsody in Blue du Clos de Montamer",
+            "CH\u00a0 FR, INT CH,\nELITE A\nNarwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "VICE CH FR\nRhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Murphy Black du Chemin des Randonnees"
+          ],
+          [
+            "CH RU, CH BLR\nVelours Noir du Clos de Montamer",
+            "VICE CH FR\nRhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Lorry`Love du Clos de Montamer"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH MOL, JCH UA, JCH RU, CH MOL,\nCH UA\nBachelor Boy des Beldones",
+            "Tennesse des Beldones",
+            "Int.CH, FR.CH Carostar C`Est La Vie"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH MOL, JCH UA, JCH RU, CH MOL,\nCH UA\nBachelor Boy des Beldones",
+            "Tennesse des Beldones",
+            "Kourika Kiss in the Dark"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH MOL, JCH UA, JCH RU, CH MOL,\nCH UA\nBachelor Boy des Beldones",
+            "Int.CH. Lynaire Something Special",
+            "Jopium Touch of Darkness"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH MOL, JCH UA, JCH RU, CH MOL,\nCH UA\nBachelor Boy des Beldones",
+            "Int.CH. Lynaire Something Special",
+            "GB.CH.Lynaire Blue Lace"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes Julay Black Marion"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "CH RU Lynaire Midnight Traveller"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH UA, 10xCAC, 2xCACIB,3xBOB,\n2xBIG-1\nTop Less Randevu",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Amelie\"",
+          "born 28.09.2010\n",
+          "co-own: S.Lanskaya\n",
+          "breeder: E.Lugovskaya-N.Shmatko",
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS FUCHSIA": {
+      "link": "our_collies.php?id=28&cat=Bitches&name=TOP LESS FUCHSIA",
+      "details": {
+        "images_list": [
+          "images/kolli/fuksiya6.jpg",
+          "/userfiles/Fuchsia 2.jpg",
+          "/userfiles/image/fuchsia/fuksiya2.jpg",
+          "/userfiles/image/fuchsia/fuksiya3.jpg",
+          "/userfiles/image/fuchsia/fuksiya5.jpg",
+          "/userfiles/image/fuchsia/fuksiya_portr1.jpg",
+          "/userfiles/image/fuchsia/fuksiya_portr18.jpg",
+          "/userfiles/kralya.jpg",
+          "/userfiles/kraly(1).jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "CH UA, Grand CH UA\nBrilyn Above Board": {
+              "GB CH Aaronwell Antique Gold at Brilyn": {
+                "Ferncott Gold Blend for Aaronwell": {
+                  "Brilyn Solid Gold at Aaronwell": {},
+                  "Aaronwell Adorable Dora of Ferncott": {}
+                },
+                "Brilyn Satin Smile on Aaronwell": {
+                  "CH Brilyn Rum `n` Black": {},
+                  "CH Brilyn Satin Symphony": {}
+                }
+              },
+              "Brilyn Magic Touch": {
+                "GB CH, INT. CH Johnny Be Good at Brilyn": {
+                  "Ger. CH. Brilyn Misty Shadow at Carostar": {},
+                  "Q`Cathy de Gold Collies": {}
+                },
+                "Brilyn Magic Dream": {
+                  "CH Aaronwell Antique Gold at Brilyn": {},
+                  "Aberquarrie Always A Dream at Brilyn": {}
+                }
+              }
+            },
+            "Top Less Melanie B": {
+              "INT.CH, CH UA, CH RU, CH MOL,CH BLG, Grand CH UA\nAlmazniy Istochnik Vostorzhenniy Vzgliad": {
+                "CH RU\nMargaret`s Double Impact": {
+                  "UA & LUX CH\nWestoak Firewalker": {},
+                  "CH UA\nGolden Gates Paramour in Paradies": {}
+                },
+                "Almazniy Istochnik Dashenka": {
+                  "CH RU\nFernlark Skywalker at Lynaire": {},
+                  "CH RU\nWellbred Blue Valliday Dreams": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada": {
+                "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes\nJulay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "CH RU\nLynaire Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "GB CH Aaronwell Antique Gold at Brilyn",
+            "Ferncott Gold Blend for Aaronwell",
+            "Brilyn Solid Gold at Aaronwell"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "GB CH Aaronwell Antique Gold at Brilyn",
+            "Ferncott Gold Blend for Aaronwell",
+            "Aaronwell Adorable Dora of Ferncott"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "GB CH Aaronwell Antique Gold at Brilyn",
+            "Brilyn Satin Smile on Aaronwell",
+            "CH Brilyn Rum `n` Black"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "GB CH Aaronwell Antique Gold at Brilyn",
+            "Brilyn Satin Smile on Aaronwell",
+            "CH Brilyn Satin Symphony"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "Brilyn Magic Touch",
+            "GB CH, INT. CH Johnny Be Good at Brilyn",
+            "Ger. CH. Brilyn Misty Shadow at Carostar"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "Brilyn Magic Touch",
+            "GB CH, INT. CH Johnny Be Good at Brilyn",
+            "Q`Cathy de Gold Collies"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "Brilyn Magic Touch",
+            "Brilyn Magic Dream",
+            "CH Aaronwell Antique Gold at Brilyn"
+          ],
+          [
+            "CH UA, Grand CH UA\nBrilyn Above Board",
+            "Brilyn Magic Touch",
+            "Brilyn Magic Dream",
+            "Aberquarrie Always A Dream at Brilyn"
+          ],
+          [
+            "Top Less Melanie B",
+            "INT.CH, CH UA, CH RU, CH MOL,CH BLG, Grand CH UA\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "UA & LUX CH\nWestoak Firewalker"
+          ],
+          [
+            "Top Less Melanie B",
+            "INT.CH, CH UA, CH RU, CH MOL,CH BLG, Grand CH UA\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "CH UA\nGolden Gates Paramour in Paradies"
+          ],
+          [
+            "Top Less Melanie B",
+            "INT.CH, CH UA, CH RU, CH MOL,CH BLG, Grand CH UA\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "CH RU\nFernlark Skywalker at Lynaire"
+          ],
+          [
+            "Top Less Melanie B",
+            "INT.CH, CH UA, CH RU, CH MOL,CH BLG, Grand CH UA\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "CH RU\nWellbred Blue Valliday Dreams"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes\nJulay Black Marion"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "CH RU\nLynaire Midnight Traveller"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Kralya\"",
+          "Club Winner, Champion of Ukraine,",
+          "Champion of Russia",
+          "3xBOB\nbitch, born 26.06.2009\n",
+          "Co-owner: S.Boldareva, Lugansk region",
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS MELANIE B": {
+      "link": "our_collies.php?id=19&cat=Bitches&name=TOP LESS MELANIE B",
+      "details": {
+        "images_list": [
+          "images/kolli/\u041c\u0435\u043b\u0430\u043d\u0438_\u0411.jpg",
+          "/userfiles/miki.jpg",
+          "/userfiles/\u043c.jpg",
+          "/userfiles/\u043c\u0438\u043a\u0443.jpg",
+          "/userfiles/image/melanie/img_melanie_b_2_portret2.jpg",
+          "/userfiles/image/melanie/img_melanie_b_portret3.jpg",
+          "/userfiles/image/melanie/mika_portret_v_al`bom.jpg",
+          "/userfiles/image/melanie/mika_v_al`b2.jpg",
+          "/userfiles/image/melanie/mika_v_al`bom1.jpg",
+          "/userfiles/image/melanie/mika_v_al`bom3.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad": {
+              "RUS CH\nMargaret`s\nDouble Impact": {
+                "UA & LUX CH\nWestoak Firewalker": {
+                  "CH GB\nLantegue Harvest Moon at Silvermoor": {},
+                  "Brilyn Black Pearl at Westoak": {}
+                },
+                "RUS CH\nGolden Gates Paramour in Paradies": {
+                  "CH UA\nTroydon Saddle Tramp": {},
+                  "GB CH Lantegue Black Magic at Brilyn": {}
+                }
+              },
+              "Almazniy Istochnik Dashenka": {
+                "RUS CH\nFernlark Skywalker at Lynaire": {
+                  "Erjon Eyecatcher": {},
+                  "Starbrook Blue Ribbon at Lynaire": {}
+                },
+                "RUS CH\nWellbred Blue Valliday Dreams": {
+                  "Moorland Black Diamond": {},
+                  "Present Stok Blue Bevergi Love": {}
+                }
+              }
+            },
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada": {
+              "RU, UA CH, Grand CH UA\nClever Eyes Sharon Black Storm": {
+                "Amorous Adorer Sunstan": {
+                  "UA CH\nTroydon\nSaddle Tramp": {},
+                  "Frisky Fine Dream Cherish Capitally": {}
+                },
+                "Clever Eyes\nJulay Black Marion": {
+                  "Lanselot Lake Tezoro": {},
+                  "UA CH\nClever Eyes Black Funny Tale": {}
+                }
+              },
+              "Bliss Model in Blue": {
+                "RUS CH\nLynaire\nMidnight Traveller": {
+                  "GB CH\nMidnight Flyer of Lynaire at Aberhill": {},
+                  "GB CH\nLynaire\nShe`s A Model": {}
+                },
+                "Nika Blue Chars Elite": {
+                  "Present Stok Blue Boss": {},
+                  "Black Chakra Lines Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "RUS CH\nMargaret`s\nDouble Impact",
+            "UA & LUX CH\nWestoak Firewalker",
+            "CH GB\nLantegue Harvest Moon at Silvermoor"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "RUS CH\nMargaret`s\nDouble Impact",
+            "UA & LUX CH\nWestoak Firewalker",
+            "Brilyn Black Pearl at Westoak"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "RUS CH\nMargaret`s\nDouble Impact",
+            "RUS CH\nGolden Gates Paramour in Paradies",
+            "CH UA\nTroydon Saddle Tramp"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "RUS CH\nMargaret`s\nDouble Impact",
+            "RUS CH\nGolden Gates Paramour in Paradies",
+            "GB CH Lantegue Black Magic at Brilyn"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "RUS CH\nFernlark Skywalker at Lynaire",
+            "Erjon Eyecatcher"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "RUS CH\nFernlark Skywalker at Lynaire",
+            "Starbrook Blue Ribbon at Lynaire"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "RUS CH\nWellbred Blue Valliday Dreams",
+            "Moorland Black Diamond"
+          ],
+          [
+            "Ch Ukraine, Russia, Grand Ch of Ukraine, Ch National Club of Russia\n\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "RUS CH\nWellbred Blue Valliday Dreams",
+            "Present Stok Blue Bevergi Love"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "RU, UA CH, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "UA CH\nTroydon\nSaddle Tramp"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "RU, UA CH, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "Frisky Fine Dream Cherish Capitally"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "RU, UA CH, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "Lanselot Lake Tezoro"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "RU, UA CH, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "UA CH\nClever Eyes Black Funny Tale"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RUS CH\nLynaire\nMidnight Traveller",
+            "GB CH\nMidnight Flyer of Lynaire at Aberhill"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RUS CH\nLynaire\nMidnight Traveller",
+            "GB CH\nLynaire\nShe`s A Model"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Present Stok Blue Boss"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Black Chakra Lines Elite"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Jun Ch Ukraine, Jun Ch Russia, Ch Ukraine, Russia\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Mika\"",
+          "JCAC, 3xCAC, BOB",
+          "born 07.11.2007\n",
+          "co-own. S. Boldareva, Stahanov, Lugansk region",
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS GOLDFISH": {
+      "link": "our_collies.php?id=45&cat=Bitches&name=TOP LESS GOLDFISH",
+      "details": {
+        "images_list": [
+          "images/kolli/fish.jpg",
+          "/userfiles/fishka sc.jpg",
+          "/userfiles/fish2-0(1).jpg",
+          "/userfiles/fish3-00(1).jpg",
+          "/userfiles/fishka s1.jpg",
+          "/userfiles/fishka.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": []
+      }
+    },
+    "TOP LESS BELLISSIMA": {
+      "link": "our_collies.php?id=64&cat=Bitches&name=TOP LESS BELLISSIMA",
+      "details": {
+        "images_list": [
+          "images/kolli/BELLA3.jpg",
+          "/userfiles/BELLA2.jpg",
+          "/userfiles/bella 6.jpg",
+          "/userfiles/BELLA 1.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\" Bella\"",
+          "Junior Champion of Ukraine",
+          "female, born 08.07.2011",
+          "(CH. Velours Noir du Clos de Montamer * CH. Top Less Cayenne)",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NN, MDR1 NN"
+        ]
+      }
+    },
+    "RINEWELD ICE QUEEN": {
+      "link": "our_collies.php?id=38&cat=Bitches&name=RINEWELD ICE QUEEN",
+      "details": {
+        "images_list": [
+          "images/kolli/queen4.jpg",
+          "/userfiles/queen(1).jpg",
+          "/userfiles/queen 2.jpg",
+          "/userfiles/queen(2).jpg",
+          "/userfiles/queen3(1).jpg",
+          "/userfiles/queen2(1).jpg",
+          "/userfiles/2.jpg",
+          "/userfiles/queen\u04425.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne": {
+              "Dazzle Blue Legend de la Chapelle aux Arbres": {
+                "Vol de Nuit du Clos de Montamer": {
+                  "Seven`Up du Clos de Montamer": {},
+                  "Rhapsody in Blue du Clos de Montamer": {}
+                },
+                "Boheme du Clos de Montamer": {
+                  "Royal Black du Chemin des Randonn\u0439es": {},
+                  "Rhapsody in Blue du Clos de Montamer": {}
+                }
+              },
+              "Black Majic Woman du Val des Petits G\u0439nies": {
+                "Ch Tchad du Chemin des Randonn\u0439es": {
+                  "Rackham le Rouge du Clos des Duchesses": {},
+                  "Oxane du Chemin des Randonn\u0439es": {}
+                },
+                "Uriel du Verger d`Hallison": {
+                  "Mc Hallister Black de Winthrop": {},
+                  "Prima Dona de Winthrop": {}
+                }
+              }
+            },
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope": {
+              "HJCH\nRineweld Time of Black Knight": {
+                "Rineweld Kid Don`t Give Up": {
+                  "WCH, HCH, INT.CH\nNyitramenti Captain Blood": {},
+                  "Koakoi Esmeralda": {}
+                },
+                "Rineweld Persistent": {
+                  "EUCH, EST.CH,CW\nNyitramenti Chimney Sweep": {},
+                  "Rineweld Andora La Wella": {}
+                }
+              },
+              "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna": {
+                "FR.CH, INT.CH\nNarwick Silver Blue De Cathyja": {
+                  "Flash Black De Cabrenysset": {},
+                  "Jewel Bleue De Cret Du Loup": {}
+                },
+                "HCH, CW\nRineweld Claudia Silver Lady": {
+                  "Midnight Man of The Cinliboy House": {},
+                  "Silver Dream Blue Priscilla Presley": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Seven`Up du Clos de Montamer"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Royal Black du Chemin des Randonn\u0439es"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Black Majic Woman du Val des Petits G\u0439nies",
+            "Ch Tchad du Chemin des Randonn\u0439es",
+            "Rackham le Rouge du Clos des Duchesses"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Black Majic Woman du Val des Petits G\u0439nies",
+            "Ch Tchad du Chemin des Randonn\u0439es",
+            "Oxane du Chemin des Randonn\u0439es"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Black Majic Woman du Val des Petits G\u0439nies",
+            "Uriel du Verger d`Hallison",
+            "Mc Hallister Black de Winthrop"
+          ],
+          [
+            "HJCH\nFlamenco Cabaret des Plaines d`Alexoanne",
+            "Black Majic Woman du Val des Petits G\u0439nies",
+            "Uriel du Verger d`Hallison",
+            "Prima Dona de Winthrop"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "HJCH\nRineweld Time of Black Knight",
+            "Rineweld Kid Don`t Give Up",
+            "WCH, HCH, INT.CH\nNyitramenti Captain Blood"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "HJCH\nRineweld Time of Black Knight",
+            "Rineweld Kid Don`t Give Up",
+            "Koakoi Esmeralda"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "HJCH\nRineweld Time of Black Knight",
+            "Rineweld Persistent",
+            "EUCH, EST.CH,CW\nNyitramenti Chimney Sweep"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "HJCH\nRineweld Time of Black Knight",
+            "Rineweld Persistent",
+            "Rineweld Andora La Wella"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "FR.CH, INT.CH\nNarwick Silver Blue De Cathyja",
+            "Flash Black De Cabrenysset"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "FR.CH, INT.CH\nNarwick Silver Blue De Cathyja",
+            "Jewel Bleue De Cret Du Loup"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "HCH, CW\nRineweld Claudia Silver Lady",
+            "Midnight Man of The Cinliboy House"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "HCH, CW\nRineweld Claudia Silver Lady",
+            "Silver Dream Blue Priscilla Presley"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "HCH, CW\nRineweld Claudia Silver Lady",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Int.CH, Slo. J.CH\nRineweld Young Gleam Of Hope",
+            "WCH WJCH HCH CW Int.CH\nRineweld Awantgarde at Shewenna",
+            "HCH, CW\nRineweld Claudia Silver Lady",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Queena\"",
+          "Junior Club Champion,",
+          "Junior Champion of Ukraine ,",
+          "Champion of Ukraine",
+          "3\u0445CACIB, \u00a07xBOB, 2xBIG-I",
+          "born 30.07.2012\n",
+          "breeder: Lissai Erika (Hungary)\n",
+          "co-owner: E.Lugovskaya, Kharkov",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM MN, PRA MN, MDR1 +/-",
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "OLD GOLDEN GATES TOCCATA FOR TOP LESS": {
+      "link": "our_collies.php?id=62&cat=Bitches&name=OLD GOLDEN GATES TOCCATA FOR TOP LESS",
+      "details": {
+        "images_list": [
+          "images/kolli/\u043a\u043e\u0442\u0442\u0438_\u043f\u043e\u0440\u0442.jpg",
+          "/userfiles/\u043a\u043e\u0442\u0442\u0438.jpg",
+          "/userfiles/cotty 9.jpg",
+          "/userfiles/cotty & jecky.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "JCAC, Best junior",
+          "\"Cotty \"",
+          "fenale,born: 24.06.2016",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NM, MDR 1 +/-",
+          "breeder: A &N Tsvetkov",
+          "(CH.Fr Flaming Black Jack du Chemin des Randonnees * \u0421H. UA Delight in Blue de Cathyja)",
+          "Cotty (9 months) and mom Jecky (8 years old)"
+        ]
+      }
+    },
+    "TOP LESS GIFT OF GOLD": {
+      "link": "our_collies.php?id=65&cat=Bitches&name=TOP LESS GIFT OF GOLD",
+      "details": {
+        "images_list": [
+          "images/kolli/GG3.jpg",
+          "/userfiles/GG 1.jpg",
+          "/userfiles/foxi 11 obr.jpg",
+          "/userfiles/IMG_8815.JPG"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "JCAC",
+          "\"Foxi\"",
+          "female, born: 22.03.3017",
+          "(JCH Top Less Quantum * JCH UA Top Less Gonna Win)",
+          "Jazz (7 years) & Foxi (11 months)"
+        ]
+      }
+    },
+    "TOP LESS UKRAINKA": {
+      "link": "our_collies.php?id=54&cat=Bitches&name=TOP LESS UKRAINKA",
+      "details": {
+        "images_list": [
+          "images/kolli/TOP_LESS_UKRAINKA.jpg",
+          "/userfiles/\u043a\u043e\u043b\u043b\u0438 \u041a\u0438\u0440\u0430 5.jpg",
+          "/userfiles/162083104.jpg",
+          "/userfiles/7(1).jpg",
+          "/userfiles/12(1).jpg",
+          "/userfiles/20.jpg",
+          "/userfiles/13.jpg",
+          "/userfiles/15.jpg",
+          "/userfiles/17.jpg",
+          "/userfiles/\u043a\u0438\u0440\u0430 \u044e\u0447.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\"Kira\"",
+          "Junior Champion of Ukraine, BISJ-2, BOB",
+          "born: 17.02.2014",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NN, PRA NN, MDR1 +/-"
+        ]
+      }
+    },
+    "TOP LESS HONEYMOON": {
+      "link": "our_collies.php?id=49&cat=Bitches&name=TOP LESS HONEYMOON",
+      "details": {
+        "images_list": [
+          "images/kolli/1462800_3566708503212_2119631847_o.jpg",
+          "/userfiles/\u0445\u0430\u043d\u0438(1).jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A": {
+              "Cramick Silver Blue de Cathyja": {
+                "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {
+                  "Flash Black de Cabrenysset": {},
+                  "Jewel Bleue du Cret du Loup": {}
+                },
+                "CH GB\nSilvermoor`s Black Opal at Buebezi": {
+                  "Silvermoor`s Spritzer": {},
+                  "Silvermoor`s May Bee": {}
+                }
+              },
+              "JCH SRB, Ch SRB, Ch MK\nAmalie Black in Style": {
+                "IR CH\nAmalie Back In Black": {
+                  "Geosan Flashback of Mallicot": {},
+                  "Amalie Dixies Black": {}
+                },
+                "Amalie Dixies Black": {
+                  "GER.CH Silvers Inspiration Xanadu": {},
+                  "Blue Amalie Colynia\u2019s Paradise": {}
+                }
+              }
+            },
+            "CH UA, CH RU\nTop Less Costa Rika": {
+              "Royal Black du Chemin des Randonn\u00e9es\nElite B": {
+                "Jamiroquai of Moon River": {
+                  "CH Amalie Best Bitter": {},
+                  "Matai Honey Bunch": {}
+                },
+                "Oxane du Chemin des Randonn\u00e9es": {
+                  "Jean-Mi de La Petite Oriere\nRecommande": {},
+                  "Lola du Chemin des Randonnees": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada": {
+                "CH\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes Julay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "RU CH Lynaire Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "Cramick Silver Blue de Cathyja",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "Cramick Silver Blue de Cathyja",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "Cramick Silver Blue de Cathyja",
+            "CH GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s Spritzer"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "Cramick Silver Blue de Cathyja",
+            "CH GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "JCH SRB, Ch SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Geosan Flashback of Mallicot"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "JCH SRB, Ch SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Amalie Dixies Black"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "JCH SRB, Ch SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "GER.CH Silvers Inspiration Xanadu"
+          ],
+          [
+            "JCH UA\nDallinaire Xtravagant Blue\nHD-A",
+            "JCH SRB, Ch SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "Royal Black du Chemin des Randonn\u00e9es\nElite B",
+            "Jamiroquai of Moon River",
+            "CH Amalie Best Bitter"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "Royal Black du Chemin des Randonn\u00e9es\nElite B",
+            "Jamiroquai of Moon River",
+            "Matai Honey Bunch"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "Royal Black du Chemin des Randonn\u00e9es\nElite B",
+            "Oxane du Chemin des Randonn\u00e9es",
+            "Jean-Mi de La Petite Oriere\nRecommande"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "Royal Black du Chemin des Randonn\u00e9es\nElite B",
+            "Oxane du Chemin des Randonn\u00e9es",
+            "Lola du Chemin des Randonnees"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "CH\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "CH\nClever Eyes Sharon Black Storm",
+            "Clever Eyes Julay Black Marion"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH Lynaire Midnight Traveller"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "CH UA, CH RU\nTop Less Costa Rika",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Hani\"",
+          "Junior Champion of Ukraine, BOB",
+          "bitch, born 14.03.2013"
+        ]
+      }
+    },
+    "TOP LESS GONNA WIN": {
+      "link": "our_collies.php?id=46&cat=Bitches&name=TOP LESS GONNA WIN",
+      "details": {
+        "images_list": [
+          "images/kolli/karamel2.jpg",
+          "/userfiles/karamel.jpg",
+          "/userfiles/gonna win.jpg",
+          "/userfiles/karamel3.jpg",
+          "/userfiles/caram2-0.jpg",
+          "/userfiles/gonna win(1).jpg",
+          "/userfiles/gw.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "\u0422OP LESS DOULETTE": {
+      "link": "our_collies.php?id=34&cat=Bitches&name=\u0422OP LESS DOULETTE",
+      "details": {
+        "images_list": [
+          "images/kolli/dusya-port2.jpg",
+          "/userfiles/doulette(1).jpg",
+          "/userfiles/\u0414\u0430\u0443\u043b\u0435\u0442\u0442 \u041c1.jpg",
+          "/userfiles/image/doulette/dusya4.jpg",
+          "/userfiles/image/doulette/dusya5.jpg",
+          "/userfiles/image/doulette/dusya-port3.jpg",
+          "/userfiles/dusya3.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "CH UA, CH RU\nClever Eyes Bright Diamond": {
+              "Old Golden Gates Nocturne of Margarets": {
+                "Manico Quaterman": {
+                  "CH Kourika Mantika at Troydon": {},
+                  "Troydon Carisma": {}
+                },
+                "Golden Gates Paramour in Paradies": {
+                  "CH Troydon Saddle Tramp": {},
+                  "Brilyn Black Pearl at Westoak": {}
+                }
+              },
+              "Int. CH\nClever Eyes Sepfaiya of Valentine": {
+                "Golden Gates Rolls Royce": {
+                  "CH Troydon Saddle Tramp": {},
+                  "Westoak First Foot": {}
+                },
+                "CH UA\nClever Eyes Blek Fanni Teil": {
+                  "CH Westoak Firewalker": {},
+                  "Floria Black Ceritta": {}
+                }
+              }
+            },
+            "Top Less Melanie B": {
+              "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad": {
+                "CH RU\nMargaret`s Double Impact": {
+                  "CH Westoak Firewalker": {},
+                  "Golden Gates Paramour in Paradies": {}
+                },
+                "Almazniy Istochnik Dashenka": {
+                  "CH Fernlark Skywalker at Lynaire": {},
+                  "Wellbred Blue Valliday Dreams": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada": {
+                "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes Julay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "CH RU Lynaire Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Manico Quaterman",
+            "CH Kourika Mantika at Troydon"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Manico Quaterman",
+            "Troydon Carisma"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Golden Gates Paramour in Paradies",
+            "CH Troydon Saddle Tramp"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Golden Gates Paramour in Paradies",
+            "Brilyn Black Pearl at Westoak"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "Golden Gates Rolls Royce",
+            "CH Troydon Saddle Tramp"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "Golden Gates Rolls Royce",
+            "Westoak First Foot"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "CH UA\nClever Eyes Blek Fanni Teil",
+            "CH Westoak Firewalker"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "CH UA\nClever Eyes Blek Fanni Teil",
+            "Floria Black Ceritta"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "CH Westoak Firewalker"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "Golden Gates Paramour in Paradies"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "CH Fernlark Skywalker at Lynaire"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "Wellbred Blue Valliday Dreams"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes Julay Black Marion"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "CH RU Lynaire Midnight Traveller"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Dusia\"",
+          "Junior Champion of Ukraine",
+          "Champion of Ukraine",
+          "born 11.07.2011\n",
+          "co-own. S. Boldareva, Stahanov, Lugansk region\n\nP\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS INDIAN BLUE": {
+      "link": "our_collies.php?id=50&cat=Bitches&name=TOP LESS INDIAN BLUE",
+      "details": {
+        "images_list": [
+          "images/kolli/TOP_LESS__INDIAN__BLUE.jpg",
+          "/userfiles/6.jpg",
+          "/userfiles/4(8).jpg",
+          "/userfiles/32653021_1862701253769776_3068529244209414144_o.jpg",
+          "/userfiles/5.jpg",
+          "/userfiles/7.jpg",
+          "/userfiles/mini_DSC_0714.jpg",
+          "/userfiles/\u043a\u043e\u043b\u043b\u0438 \u0411\u043b\u044e\u0448\u0430.jpg",
+          "/userfiles/1396996_3525274347384_1731099140_o(1).jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A": {
+              "Seven`Up du Clos de Montamer": {
+                "Rackham le Rouge du Clos des Duchesses": {
+                  "Hair of Charm de Florange": {},
+                  "Nos Jours Heureux de la Petite Oriere": {}
+                },
+                "Orea du Clos de Montamer": {
+                  "Murphy Black du Chemin des Randonnees": {},
+                  "Lorry`Love du Clos de Montamer": {}
+                }
+              },
+              "VICE CH FR\n\nRhapsody in Blue du Clos de Montamer": {
+                "CH\u00a0 FR, INT CH,\nELITE A\n\nNarwick Silver Blue de Cathyja": {
+                  "Flash Black de Cabrenysset": {},
+                  "Jewel Bleue du Cret du Loup": {}
+                },
+                "Orea du Clos de Montamer": {
+                  "Murphy Black du Chemin des Randonnees": {},
+                  "Lorry`Love du Clos de Montamer": {}
+                }
+              }
+            },
+            "Top Less Curlie-Wurlie": {
+              "Royal Black du Chemin des Randonn\u00e9es\n\nElite B": {
+                "Jamiroquai of Moon River": {
+                  "CH Amalie Best Bitter": {},
+                  "Matai Honey Bunch": {}
+                },
+                "Oxane du Chemin des Randonn\u00e9es": {
+                  "Jean-Mi de La Petite Oriere Recommande": {},
+                  "Lola du Chemin des Randonnees": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada": {
+                "CH\n\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes Julay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "RU CH Lynaire \u00a0Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses",
+            "Hair of Charm de Florange"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses",
+            "Nos Jours Heureux de la Petite Oriere"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Murphy Black du Chemin des Randonnees"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Lorry`Love du Clos de Montamer"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "VICE CH FR\n\nRhapsody in Blue du Clos de Montamer",
+            "CH\u00a0 FR, INT CH,\nELITE A\n\nNarwick Silver Blue de Cathyja",
+            "Flash Black de Cabrenysset"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "VICE CH FR\n\nRhapsody in Blue du Clos de Montamer",
+            "CH\u00a0 FR, INT CH,\nELITE A\n\nNarwick Silver Blue de Cathyja",
+            "Jewel Bleue du Cret du Loup"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "VICE CH FR\n\nRhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Murphy Black du Chemin des Randonnees"
+          ],
+          [
+            "INT.CH\nVelours Noir du Clos de Montamer\n\nHD-A",
+            "VICE CH FR\n\nRhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer",
+            "Lorry`Love du Clos de Montamer"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "Royal Black du Chemin des Randonn\u00e9es\n\nElite B",
+            "Jamiroquai of Moon River",
+            "CH Amalie Best Bitter"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "Royal Black du Chemin des Randonn\u00e9es\n\nElite B",
+            "Jamiroquai of Moon River",
+            "Matai Honey Bunch"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "Royal Black du Chemin des Randonn\u00e9es\n\nElite B",
+            "Oxane du Chemin des Randonn\u00e9es",
+            "Jean-Mi de La Petite Oriere Recommande"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "Royal Black du Chemin des Randonn\u00e9es\n\nElite B",
+            "Oxane du Chemin des Randonn\u00e9es",
+            "Lola du Chemin des Randonnees"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "CH\n\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "CH\n\nClever Eyes Sharon Black Storm",
+            "Clever Eyes Julay Black Marion"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH Lynaire \u00a0Midnight Traveller"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Top Less Curlie-Wurlie",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA Top Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Bluesha\"",
+          "Junior Champion of Ukraine,",
+          "Champion of breed 2015",
+          "2xChampion of Ukraine,",
+          "Champion of Russia,",
+          "Champion of Moldova",
+          "3xCACIB",
+          "female, born: 16.08.2013",
+          "HD A, Elbow 0/0, CEA/PRA clear",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NN, PRA NN, MDR1 +/-",
+          "HD-A",
+          "Lorry`Love du Clos de Montamer",
+          "Jewel Bleue du Cret du Loup"
+        ]
+      }
+    },
+    "TOP LESS CAYENNE": {
+      "link": "our_collies.php?id=29&cat=Bitches&name=TOP LESS CAYENNE",
+      "details": {
+        "images_list": [
+          "images/kolli/cayene2.jpg",
+          "/userfiles/cayene3(1).jpg",
+          "/userfiles/\u041a\u0430\u0439\u0435\u043d\u043d \u0441\u0442.jpg",
+          "/userfiles/\u041a\u0430\u0439\u0435\u043d\u043d.jpg",
+          "/userfiles/image/cayenne/cayene4.jpg",
+          "/userfiles/image/cayenne/cayene5.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees": {
+              "Jamiroquai Of Moon River\nElite A": {
+                "CH Amalie Best Bitter": {
+                  "CH Lynway Seldom Sober": {},
+                  "Blossom Black at Amalie": {}
+                },
+                "Matai Honey Bunch": {
+                  "CH Matai Don Quixote": {},
+                  "Brilyn Satin Rose at Matai": {}
+                }
+              },
+              "Oxane du Chemin des Randonnees": {
+                "Jean-Mi de La Petite Oriere\nRecommande": {
+                  "CH Inspecteur Harry de la Petite Oriere": {},
+                  "Generation 60 de La Petite Oriere": {}
+                },
+                "Lola du Chemin des Randonnees": {
+                  "CH Inspecteur Harry de La Petite Oriere": {},
+                  "Ixelle du Chemin des Randonnees": {}
+                }
+              }
+            },
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada": {
+              "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm": {
+                "Amorous Adorer Sunstan": {
+                  "UA CH Troydon Saddle Tramp": {},
+                  "Frisky Fine Dream Cherish Capitally": {}
+                },
+                "Clever Eyes\nJulay Black Marion": {
+                  "Lanselot Lake Tezoro": {},
+                  "UA CH Clever Eyes Black Funny Tale": {}
+                }
+              },
+              "Bliss Model in Blue": {
+                "RU CH\nLynaire\nMidnight Traveller": {
+                  "GB CH Midnight Flyer of Lynaire at Aberhill": {},
+                  "GB CH Lynaire She`s A Model": {}
+                },
+                "Nika Blue Chars Elite": {
+                  "Present Stok Blue Boss": {},
+                  "Black Chakra Lines Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "CH Amalie Best Bitter",
+            "CH Lynway Seldom Sober"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "CH Amalie Best Bitter",
+            "Blossom Black at Amalie"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "Matai Honey Bunch",
+            "CH Matai Don Quixote"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "Matai Honey Bunch",
+            "Brilyn Satin Rose at Matai"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Jean-Mi de La Petite Oriere\nRecommande",
+            "CH Inspecteur Harry de la Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Jean-Mi de La Petite Oriere\nRecommande",
+            "Generation 60 de La Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Lola du Chemin des Randonnees",
+            "CH Inspecteur Harry de La Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Lola du Chemin des Randonnees",
+            "Ixelle du Chemin des Randonnees"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "UA CH Troydon Saddle Tramp"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "Frisky Fine Dream Cherish Capitally"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "Lanselot Lake Tezoro"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "UA CH Clever Eyes Black Funny Tale"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH\nLynaire\nMidnight Traveller",
+            "GB CH Midnight Flyer of Lynaire at Aberhill"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH\nLynaire\nMidnight Traveller",
+            "GB CH Lynaire She`s A Model"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Present Stok Blue Boss"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Black Chakra Lines Elite"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Cayenne\"",
+          "TOP\u00a0Junior 2011",
+          "Junior Champion of Ukraine, Junior Grand Champion of Ukraine,",
+          "Champion of Ukraine, 3xCACIB, R.CACIB, 3xBOB",
+          "HD-A\n\nborn 05.11.2009\n\nP\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS WISH": {
+      "link": "our_collies.php?id=56&cat=Bitches&name=TOP LESS WISH",
+      "details": {
+        "images_list": [
+          "images/kolli/kasya_2.JPG",
+          "/userfiles/\u041a\u0410\u0421\u042f \u0421\u0422\u041e\u0419\u041a\u0410.JPG",
+          "/userfiles/kasya 2.JPG",
+          "/userfiles/kasya 1.JPG",
+          "/userfiles/\u043a\u0430\u0441\u044f \u0443\u0442\u043a\u0430.JPG",
+          "/userfiles/\u043a\u0430\u0441\u044f \u0443\u0442\u043a\u0430 2.JPG",
+          "/userfiles/\u041a\u0410\u0421\u042f4.JPG",
+          "/userfiles/\u041a\u0410\u0421\u042f 5.JPG",
+          "/userfiles/\u043a\u0430\u0441\u044f 4.JPG"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "female, born 05.03.1014",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NM, MDR1 +/-"
+        ]
+      }
+    },
+    "TOP LESS AQUARELLE": {
+      "link": "our_collies.php?id=60&cat=Bitches&name=TOP LESS AQUARELLE",
+      "details": {
+        "images_list": [
+          "images/kolli/\u043a\u043e\u043b\u043b\u0438_\u041a\u0435\u043b\u043b\u0438.jpg",
+          "/userfiles/4(6).jpg",
+          "/userfiles/9.jpg",
+          "/userfiles/8(4).jpg",
+          "/userfiles/14.jpg",
+          "/userfiles/11(2).jpg",
+          "/userfiles/collie Kelly(1).jpg",
+          "/userfiles/1(23).jpg",
+          "/userfiles/2(12).jpg",
+          "/userfiles/9.JPG"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "JCAC, Best junior",
+          "\"Kelly\"",
+          "born: 01.12.2014",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NM, MDR1 -/-",
+          "(CH.UA Hocus Pocus du Clos de Sea-Wind * JCH UA, JCH RU Felicity in Blue de Cathyja)"
+        ]
+      }
+    },
+    "TOP LESS DOMINO": {
+      "link": "our_collies.php?id=35&cat=Bitches&name=TOP LESS DOMINO",
+      "details": {
+        "images_list": [
+          "images/kolli/domino_1.jpg",
+          "/userfiles/hina.jpg",
+          "/userfiles/image/domino/domino4.jpg",
+          "/userfiles/image/domino/domino5.jpg",
+          "/userfiles/image/domino/domino9.jpg",
+          "/userfiles/image/domino/domino6.jpg",
+          "/userfiles/image/domino/domino7.jpg",
+          "/userfiles/image/domino/domino8.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "CH UA, CH RU\nClever Eyes Bright Diamond": {
+              "Old Golden Gates Nocturne of Margarets": {
+                "Manico Quaterman": {
+                  "CH Kourika Mantika at Troydon": {},
+                  "Troydon Carisma": {}
+                },
+                "Golden Gates Paramour in Paradies": {
+                  "CH Troydon Saddle Tramp": {},
+                  "Brilyn Black Pearl at Westoak": {}
+                }
+              },
+              "Int. CH\nClever Eyes Sepfaiya of Valentine": {
+                "Golden Gates Rolls Royce": {
+                  "CH Troydon Saddle Tramp": {},
+                  "Westoak First Foot": {}
+                },
+                "CH UA\nClever Eyes Blek Fanni Teil": {
+                  "CH Westoak Firewalker": {},
+                  "Floria Black Ceritta": {}
+                }
+              }
+            },
+            "Top Less Melanie B": {
+              "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad": {
+                "CH RU\nMargaret`s Double Impact": {
+                  "CH Westoak Firewalker": {},
+                  "Golden Gates Paramour in Paradies": {}
+                },
+                "Almazniy Istochnik Dashenka": {
+                  "CH Fernlark Skywalker at Lynaire": {},
+                  "Wellbred Blue Valliday Dreams": {}
+                }
+              },
+              "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada": {
+                "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm": {
+                  "Amorous Adorer Sunstan": {},
+                  "Clever Eyes Julay Black Marion": {}
+                },
+                "Bliss Model in Blue": {
+                  "CH RU Lynaire Midnight Traveller": {},
+                  "Nika Blue Chars Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Manico Quaterman",
+            "CH Kourika Mantika at Troydon"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Manico Quaterman",
+            "Troydon Carisma"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Golden Gates Paramour in Paradies",
+            "CH Troydon Saddle Tramp"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Old Golden Gates Nocturne of Margarets",
+            "Golden Gates Paramour in Paradies",
+            "Brilyn Black Pearl at Westoak"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "Golden Gates Rolls Royce",
+            "CH Troydon Saddle Tramp"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "Golden Gates Rolls Royce",
+            "Westoak First Foot"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "CH UA\nClever Eyes Blek Fanni Teil",
+            "CH Westoak Firewalker"
+          ],
+          [
+            "CH UA, CH RU\nClever Eyes Bright Diamond",
+            "Int. CH\nClever Eyes Sepfaiya of Valentine",
+            "CH UA\nClever Eyes Blek Fanni Teil",
+            "Floria Black Ceritta"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "CH Westoak Firewalker"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "CH RU\nMargaret`s Double Impact",
+            "Golden Gates Paramour in Paradies"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "CH Fernlark Skywalker at Lynaire"
+          ],
+          [
+            "Top Less Melanie B",
+            "Int. CH\nAlmazniy Istochnik Vostorzhenniy Vzgliad",
+            "Almazniy Istochnik Dashenka",
+            "Wellbred Blue Valliday Dreams"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Amorous Adorer Sunstan"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "CH RU, CH UA, Grand CH UA\nClever Eyes Sharon Black Storm",
+            "Clever Eyes Julay Black Marion"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "CH RU Lynaire Midnight Traveller"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Top Less Melanie B",
+            "JCH UA, JCH RU, CH UA, CH RU, 2xGrand CH UA\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Pina\"",
+          "2xChampion of Ukraine, 4xCACIB, BOB, BOG-1",
+          "born 11.07.2011\nco-own. S. Boldareva, Stahanov, Lugansk region",
+          "P\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS DIADEMA": {
+      "link": "our_collies.php?id=59&cat=Bitches&name=TOP LESS DIADEMA",
+      "details": {
+        "images_list": [
+          "images/kolli/p3.JPG",
+          "/userfiles/\u041b\u0438\u043d\u0430 \u0441\u0442\u043e\u0439\u043a\u0430.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 1.JPG",
+          "/userfiles/\u0414\u0438\u0430\u0434\u0435\u043c\u0430 2.JPG",
+          "/userfiles/lina 1.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 \u043f\u043e\u0440\u0442.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 \u043f\u043e\u0440\u0442\u0440\u0435\u0442 3.JPG",
+          "/userfiles/p4.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 6.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 4.JPG",
+          "/userfiles/\u043b\u0438\u043d\u0430 \u0438 \u043c\u0430\u0448\u0430.JPG",
+          "/userfiles/1(24).jpg",
+          "/userfiles/1(18).jpg",
+          "/userfiles/2(9).jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "Junior Champion of Ukraine, 2xCAC, CACIB, BOS, 2xBOB",
+          "\"Lina\"",
+          "born: 07.10.2015",
+          "CEA clear",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b : DM NN, MDR1 +/+",
+          "(CH UA Hocus Pocus du Clos de Sea-Wind * CH.UA Rineweld Ice Queen)",
+          "\u0414\u0432\u0435 \u0441\u0435\u0441\u0442\u0440\u044b - blue merle TOP LESS DE LUNA FOR BE FIRST & tric TOP LESS DIADEMA 1.5 \u0433\u043e\u0434\u0430"
+        ]
+      }
+    },
+    "TOP LESS COSTA RIKA": {
+      "link": "our_collies.php?id=30&cat=Bitches&name=TOP LESS COSTA RIKA",
+      "details": {
+        "images_list": [
+          "images/kolli/\u0440\u0438\u043a\u0430_\u043f\u043e\u0440\u0442.jpg",
+          "/userfiles/rika(1).jpg",
+          "/userfiles/\u0440\u0438\u043a\u0430.jpg",
+          "/userfiles/DSC_0355.JPG"
+        ],
+        "breed_tree": {
+          "child": {
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees": {
+              "Jamiroquai Of Moon River\nElite A": {
+                "CH Amalie Best Bitter": {
+                  "CH Lynway Seldom Sober": {},
+                  "Blossom Black at Amalie": {}
+                },
+                "Matai Honey Bunch": {
+                  "CH Matai Don Quixote": {},
+                  "Brilyn Satin Rose at Matai": {}
+                }
+              },
+              "Oxane du Chemin des Randonnees": {
+                "Jean-Mi de La Petite Oriere\nRecommande": {
+                  "CH Inspecteur Harry de la Petite Oriere": {},
+                  "Generation 60 de La Petite Oriere": {}
+                },
+                "Lola du Chemin des Randonnees": {
+                  "CH Inspecteur Harry de La Petite Oriere": {},
+                  "Ixelle du Chemin des Randonnees": {}
+                }
+              }
+            },
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada": {
+              "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm": {
+                "Amorous Adorer Sunstan": {
+                  "UA CH Troydon Saddle Tramp": {},
+                  "Frisky Fine Dream Cherish Capitally": {}
+                },
+                "Clever Eyes\nJulay Black Marion": {
+                  "Lanselot Lake Tezoro": {},
+                  "UA CH Clever Eyes Black Funny Tale": {}
+                }
+              },
+              "Bliss Model in Blue": {
+                "RU CH\nLynaire\nMidnight Traveller": {
+                  "GB CH Midnight Flyer of Lynaire at Aberhill": {},
+                  "GB CH Lynaire She`s A Model": {}
+                },
+                "Nika Blue Chars Elite": {
+                  "Present Stok Blue Boss": {},
+                  "Black Chakra Lines Elite": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "CH Amalie Best Bitter",
+            "CH Lynway Seldom Sober"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "CH Amalie Best Bitter",
+            "Blossom Black at Amalie"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "Matai Honey Bunch",
+            "CH Matai Don Quixote"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Jamiroquai Of Moon River\nElite A",
+            "Matai Honey Bunch",
+            "Brilyn Satin Rose at Matai"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Jean-Mi de La Petite Oriere\nRecommande",
+            "CH Inspecteur Harry de la Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Jean-Mi de La Petite Oriere\nRecommande",
+            "Generation 60 de La Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Lola du Chemin des Randonnees",
+            "CH Inspecteur Harry de La Petite Oriere"
+          ],
+          [
+            "Top-reproducter in France - 2006\nRoyal Black du Chemin des Randonnees",
+            "Oxane du Chemin des Randonnees",
+            "Lola du Chemin des Randonnees",
+            "Ixelle du Chemin des Randonnees"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "UA CH Troydon Saddle Tramp"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Amorous Adorer Sunstan",
+            "Frisky Fine Dream Cherish Capitally"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "Lanselot Lake Tezoro"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "CH RU, UA,\nGrand CH UA\nClever Eyes\nSharon Black Storm",
+            "Clever Eyes\nJulay Black Marion",
+            "UA CH Clever Eyes Black Funny Tale"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH\nLynaire\nMidnight Traveller",
+            "GB CH Midnight Flyer of Lynaire at Aberhill"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "RU CH\nLynaire\nMidnight Traveller",
+            "GB CH Lynaire She`s A Model"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Present Stok Blue Boss"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Black Chakra Lines Elite"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH UA, JCH RU,\nCH UA, RU,\nGrand CH UA\n\nTop Less Pina Colada",
+            "Bliss Model in Blue",
+            "Nika Blue Chars Elite",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Rika\"",
+          "Champion of Ukraine,",
+          "Champion of Russia ,",
+          "3xCACIB, R.CACIB\n\nborn 05.11.2009\n\nP\u043e\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u0430\u044f/Pedigree"
+        ]
+      }
+    },
+    "TOP LESS ESCENTRIC 01": {
+      "link": "our_collies.php?id=66&cat=Bitches&name=TOP LESS ESCENTRIC 01",
+      "details": {
+        "images_list": [
+          "images/kolli/\u043a\u043e\u043b\u043b\u0438_\u041c\u043e\u043b\u0435\u043a\u0443\u043b\u0430.jpg",
+          "/userfiles/2(10).jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\"Molecula\"",
+          "born 10.08.2016",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: MDR1 +/-, DM +/-",
+          "CEA/PRA free"
+        ]
+      }
+    }
+  },
+  "Males": {
+    "DALLINAIRE XTRAVAGANT BLUE": {
+      "link": "our_collies.php?id=16&cat=Males&name=DALLINAIRE XTRAVAGANT BLUE",
+      "details": {
+        "images_list": [
+          "images/kolli/\u0413\u0430\u0440\u0440\u0438_\u043f\u043e\u0440\u04422.jpg",
+          "/userfiles/\u0413\u0430\u0440\u0440\u0438 4.jpg",
+          "/userfiles/\u0413\u0430\u0440\u0440\u0438 1.jpg",
+          "/userfiles/\u0413\u0430\u0440\u044e\u0441\u044f.jpg",
+          "/userfiles/\u0413\u0430\u0440\u0440\u0438 \u0441\u0442(1).jpg",
+          "/userfiles/image/dallinare/garik1.jpg",
+          "/userfiles/image/dallinare/Harry.jpg",
+          "/userfiles/image/dallinare/Harr2.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "Cramick Silver Blue\nde Cathyja": {
+              "Int.CH, FR CH\nCh Narwick Silver Blue de Cathyja\nElite A": {
+                "Flash Black de Cabrenysset": {
+                  "Super Ted of Lynway": {},
+                  "Chyta de la Vallezanne": {}
+                },
+                "Jewel Bleue du Cret du Loup": {
+                  "Ch Forsyd Jones Black de la Jasserie": {},
+                  "Geisha Bleue du Cret du Loup": {}
+                }
+              },
+              "Ch GB\nSilvermoor`s Black Opal at Buebezi": {
+                "Silvermoor`s Spritzer": {
+                  "Pelido Forgotten Dreams": {},
+                  "Silvermoor`s Barley Sugar": {}
+                },
+                "Silvermoor`s May Bee": {
+                  "Amalie Mild Affair": {},
+                  "Silvermoor`s Busy Lizzie": {}
+                }
+              }
+            },
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style": {
+              "IR CH\nAmalie Back In Black": {
+                "Geosan Flashback of Mallicot": {
+                  "CH Elsamos Starmaker at Mallicot": {},
+                  "CH Geosan Chocolate Box": {}
+                },
+                "Amalie Dixies Black": {
+                  "GER.CH\nSilvers Inspiration Xanadu": {},
+                  "Blue Amalie Colynia\u2019s Paradise": {}
+                }
+              },
+              "Amalie Dixies Black": {
+                "GER.CH\nSilvers Inspiration Xanadu": {
+                  "Manico\u2019s Quarterman": {},
+                  "Malouine\u2019s Celita": {}
+                },
+                "Blue Amalie Colynia\u2019s Paradise": {
+                  "Brilyn Chance Again at Lynnswed": {},
+                  "Dizzy Miss Lizzy Colynia\u2019s Paradise": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Int.CH, FR CH\nCh Narwick Silver Blue de Cathyja\nElite A",
+            "Flash Black de Cabrenysset",
+            "Super Ted of Lynway"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Int.CH, FR CH\nCh Narwick Silver Blue de Cathyja\nElite A",
+            "Flash Black de Cabrenysset",
+            "Chyta de la Vallezanne"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Int.CH, FR CH\nCh Narwick Silver Blue de Cathyja\nElite A",
+            "Jewel Bleue du Cret du Loup",
+            "Ch Forsyd Jones Black de la Jasserie"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Int.CH, FR CH\nCh Narwick Silver Blue de Cathyja\nElite A",
+            "Jewel Bleue du Cret du Loup",
+            "Geisha Bleue du Cret du Loup"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Ch GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s Spritzer",
+            "Pelido Forgotten Dreams"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Ch GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s Spritzer",
+            "Silvermoor`s Barley Sugar"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Ch GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Amalie Mild Affair"
+          ],
+          [
+            "Cramick Silver Blue\nde Cathyja",
+            "Ch GB\nSilvermoor`s Black Opal at Buebezi",
+            "Silvermoor`s May Bee",
+            "Silvermoor`s Busy Lizzie"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Geosan Flashback of Mallicot",
+            "CH Elsamos Starmaker at Mallicot"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Geosan Flashback of Mallicot",
+            "CH Geosan Chocolate Box"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Amalie Dixies Black",
+            "GER.CH\nSilvers Inspiration Xanadu"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "IR CH\nAmalie Back In Black",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "GER.CH\nSilvers Inspiration Xanadu",
+            "Manico\u2019s Quarterman"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "GER.CH\nSilvers Inspiration Xanadu",
+            "Malouine\u2019s Celita"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise",
+            "Brilyn Chance Again at Lynnswed"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise",
+            "Dizzy Miss Lizzy Colynia\u2019s Paradise"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH SRB,\nCh SRB, Ch MK\nAmalie Black in Style",
+            "Amalie Dixies Black",
+            "Blue Amalie Colynia\u2019s Paradise",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Harry\"",
+          "Junior Champion of Ukraine,",
+          "Champion of Ukraine,",
+          "Champion of Moldova",
+          "4xCACIB, R.CACIB, 6xBOB, 3xBIG-I, BIG - 2, BIS-III",
+          "male, born 24.10.2011\nbreeder: Dragana Vulic, (Serbia)",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b : PRA NN, MDR1 -/-",
+          "HD A",
+          "\u0421 2017 \u0433\u043e\u0434\u0430 \"\u0413\u0430\u0440\u0440\u0438 \" \u0436\u0438\u0432\u0435\u0442 \u0432 \u0418\u0442\u0430\u043b\u0438\u0438 \u0443 Claudia Romelli."
+        ]
+      }
+    },
+    "TOP LESS NEUMANN": {
+      "link": "our_collies.php?id=51&cat=Males&name=TOP LESS NEUMANN",
+      "details": {
+        "images_list": [
+          "images/kolli/13516447_10201733220689090_5558294360286862539_n.jpg",
+          "/userfiles/\u043c\u044d\u043d\u0438 11(1).jpg",
+          "/userfiles/999653_3247249076926_472070678_n.jpg",
+          "/userfiles/\u043c\u044d\u043d\u0438 11.jpg",
+          "/userfiles/\u043c\u044d\u043d\u0438 2.jpg",
+          "/userfiles/\u043f\u043e\u0440\u0442\u0440\u0435\u0442.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "\u0421H UA\nBlue Like My Dad\nHD-A": {
+              "INT CH\nVelvet in Blue de Cathyja": {
+                "Tricky Trooper de Cathyja": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Ouest Side Story Black de Cathyja": {}
+                },
+                "Tanagra de la Case du Bois Brisard": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Only The Very Best du Clos des Duchesses": {}
+                }
+              },
+              "Be My Little Baby du Clos des Duchesses": {
+                "Royal Black du Chemin des Randonn\u00e9es": {
+                  "Jamiroquai of Moon River": {},
+                  "Oxane du Chemin des Randonn\u00e9es": {}
+                },
+                "Vent d`Ouest du Clos des Duchesses": {
+                  "GB CH Top Gun du Clos des Duchesses at Steelhurst": {},
+                  "Reine de Saba du Pr\u00e9 Luneau": {}
+                }
+              }
+            },
+            "JCH UA\nTop Less Bellissima": {
+              "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A": {
+                "Seven`Up du Clos de Montamer": {
+                  "Rackham le Rouge du Clos des Duchesses": {},
+                  "Orea du Clos de Montamer": {}
+                },
+                "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Orea du Clos de Montamer": {}
+                }
+              },
+              "JCH UA,CH UA\nTop Less Cayenne\nHD-A": {
+                "Royal Black du Chemin des Randonn\u00e9es": {
+                  "Jamiroquai of Moon River": {},
+                  "Oxane du Chemin des Randonn\u00e9es": {}
+                },
+                "CH\nTop Less Pina Colada": {
+                  "CH Clever Eyes Sharon Black Storm": {},
+                  "Bliss Model in Blue": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tricky Trooper de Cathyja",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tanagra de la Case du Bois Brisard",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tanagra de la Case du Bois Brisard",
+            "Only The Very Best du Clos des Duchesses"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Jamiroquai of Moon River"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Oxane du Chemin des Randonn\u00e9es"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Vent d`Ouest du Clos des Duchesses",
+            "GB CH Top Gun du Clos des Duchesses at Steelhurst"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Vent d`Ouest du Clos des Duchesses",
+            "Reine de Saba du Pr\u00e9 Luneau"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Jamiroquai of Moon River"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Oxane du Chemin des Randonn\u00e9es"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "CH Clever Eyes Sharon Black Storm"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Bliss Model in Blue"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Manny\"",
+          "BIS puppy -1, BIS puppy -2, 2xCAC, 2xBOB",
+          "male, 05.02.2013",
+          "co-own: T.Gergis"
+        ]
+      }
+    },
+    "FLAMING BLACK JACK DU CHEMIN DES RANDONN\u00c9ES": {
+      "link": "our_collies.php?id=58&cat=Males&name=FLAMING BLACK JACK DU CHEMIN DES RANDONN\u00c9ES",
+      "details": {
+        "images_list": [
+          "images/kolli/chiens-Colley-a-poil-long-de1f3f1f-95b8-e364-5126-6a85f60a49ba.jpg",
+          "/userfiles/\u043a\u043e\u043b\u043b\u0438 \u0414\u0436\u0430\u0437.jpg",
+          "/userfiles/mini_lk.jpg",
+          "/userfiles/5(2).jpg",
+          "/userfiles/4(2).jpg",
+          "/userfiles/1(13).jpg",
+          "/userfiles/Jazz_1.jpg",
+          "/userfiles/4.JPG"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\"Jazz\"",
+          "Champion of France (CACS ENE\u00a02012),",
+          "Champion of Bulgaria,",
+          "Int. Champion (\u043d\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0438)",
+          "Club Champion of Ukraine",
+          "male, 05.04.2010",
+          "breeder: A. & C. Roulier",
+          "owner: G. Mervant",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM MN, MDR1 -/- ;",
+          "CEA clear, HD A/A",
+          "\u041f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435:\u00a0http://www.collie-online.com/pedigree/genealogie_id.php?id=43322",
+          "\"\u0414\u0436\u0430\u0437\" \u043f\u0440\u0438\u0435\u0445\u0430\u043b \u043a \u043d\u0430\u043c \u0438\u0437 \u0424\u0440\u0430\u043d\u0446\u0438\u0438 \u0438 \u043f\u0440\u043e\u0431\u0443\u0434\u0435\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0432 \u043d\u0430\u0448\u0435\u043c \u043f\u0438\u0442\u043e\u043c\u043d\u0438\u043a\u0435.",
+          "\u0414\u0436\u0430\u0437\u0443 10 \u043b\u0435\u0442!"
+        ]
+      }
+    },
+    "PAINT THE NIGHT DELLA BUCA DELLE FATE": {
+      "link": "our_collies.php?id=63&cat=Males&name=PAINT THE NIGHT DELLA BUCA DELLE FATE",
+      "details": {
+        "images_list": [
+          "images/kolli/JZ.jpg",
+          "http://www.collie.com.ua/admin/fckeditor/editor/images/smiley/msn/regular_smile.gif",
+          "/userfiles/DJ 1.jpg",
+          "/userfiles/dj6.jpg",
+          "/userfiles/dj10(2).jpg",
+          "/userfiles/13007235_10207711931889748_3888968335370553817_n.jpg",
+          "/userfiles/13043527_10207717825237078_7322155091426160564_n.jpg",
+          "/userfiles/13620924_10208310171045353_292528170152427099_n.jpg",
+          "/userfiles/13012600_10207711702924024_4878788479352151806_n.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\"Jay-Z\" (\" \u0414\u0443\u0434\u0423\"\u00a0)",
+          "Champion of Ukraine",
+          "CAC, R,CACIB (Fr), 2xCAC UA, 2xCACIB, 2xBOB",
+          "male, born 20.03.2014",
+          "breeder: Lisa Riccardi (Italy)",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: MDR +/+, DM NN",
+          "HD A/A, CEA clear",
+          "\u041f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435:\u00a0www.collie-online.com/pedigree/genealogie_id.php"
+        ]
+      }
+    },
+    "HOCUS POCUS DU CLOS DE SEA-WIND": {
+      "link": "our_collies.php?id=17&cat=Males&name=HOCUS POCUS DU CLOS DE SEA-WIND",
+      "details": {
+        "images_list": [
+          "images/kolli/deni2.jpg",
+          "/userfiles/deni.jpg",
+          "/userfiles/den 2.jpg",
+          "/userfiles/Deni 1 \u0441\u0442.jpg",
+          "/userfiles/Deni 5 let(1).jpg",
+          "/userfiles/IMG_8356.JPG",
+          "/userfiles/deni 01.jpg",
+          "/userfiles/image/hocus/hocus2.jpg",
+          "/userfiles/image/hocus/hocus3.jpg",
+          "/userfiles/image/hocus/hocus4.jpg",
+          "/userfiles/image/hocus1.jpg",
+          "/userfiles/image/deni/deni3.jpg",
+          "/userfiles/image/deni/deni1.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "Dazzle Blue Legend de la Chapelle aux Arbres": {
+              "Vol de Nuit du Clos de Montamer": {
+                "Seven`up du Clos de Montamer": {
+                  "Rackam le rouge du Clos des Duchesses": {},
+                  "Orea du Clos de Montamer": {}
+                },
+                "Rhapsody in Blue du Clos de Montamer": {
+                  "CH Narwick Silver Blue de Cathyja": {},
+                  "Orea du Clos de Montamer": {}
+                }
+              },
+              "Boheme du Clos de Montamer": {
+                "Royal Black du Chemin des Randonnees\nElite B": {
+                  "Jamiroquai Of Moon River": {},
+                  "Oxane du Chemin des Randonnees": {}
+                },
+                "Rhapsody in Blue du Clos de Montamer": {
+                  "CH Narwick Silver Blue de Cathyja": {},
+                  "Orea du Clos de Montamer": {}
+                }
+              }
+            },
+            "Enigma\ndu Clos de Seawind": {
+              "Cramick Silver Blue de Cathyja": {
+                "CH Narwick Silver Blue De Cathyja": {
+                  "Flash Black De Cabrenysset": {},
+                  "Jewel Bleue du Cret Du Loup": {}
+                },
+                "CH Silvermoor ` s Black Opal at Buebezi": {
+                  "Silvermoor ` S Spritzer": {},
+                  "Silvermoor ` S May Bee": {}
+                }
+              },
+              "Betty Boop du Clos de Seawind": {
+                "CH Velours Noir du Clos de Montamer": {
+                  "Seven`up du Clos de Montamer": {},
+                  "Rhapsody in Blue du Clos de Montamer": {}
+                },
+                "Ushuaia in Blue du Clos de Seawind": {
+                  "CH Pole Star of Lowlands Green Valley": {},
+                  "Really Pretty du Clos de Seawind": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Seven`up du Clos de Montamer",
+            "Rackam le rouge du Clos des Duchesses"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Seven`up du Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer",
+            "CH Narwick Silver Blue de Cathyja"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Vol de Nuit du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Royal Black du Chemin des Randonnees\nElite B",
+            "Jamiroquai Of Moon River"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Royal Black du Chemin des Randonnees\nElite B",
+            "Oxane du Chemin des Randonnees"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer",
+            "CH Narwick Silver Blue de Cathyja"
+          ],
+          [
+            "Dazzle Blue Legend de la Chapelle aux Arbres",
+            "Boheme du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Cramick Silver Blue de Cathyja",
+            "CH Narwick Silver Blue De Cathyja",
+            "Flash Black De Cabrenysset"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Cramick Silver Blue de Cathyja",
+            "CH Narwick Silver Blue De Cathyja",
+            "Jewel Bleue du Cret Du Loup"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Cramick Silver Blue de Cathyja",
+            "CH Silvermoor ` s Black Opal at Buebezi",
+            "Silvermoor ` S Spritzer"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Cramick Silver Blue de Cathyja",
+            "CH Silvermoor ` s Black Opal at Buebezi",
+            "Silvermoor ` S May Bee"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "CH Velours Noir du Clos de Montamer",
+            "Seven`up du Clos de Montamer"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "CH Velours Noir du Clos de Montamer",
+            "Rhapsody in Blue du Clos de Montamer"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "Ushuaia in Blue du Clos de Seawind",
+            "CH Pole Star of Lowlands Green Valley"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "Ushuaia in Blue du Clos de Seawind",
+            "Really Pretty du Clos de Seawind"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "Ushuaia in Blue du Clos de Seawind",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "Enigma\ndu Clos de Seawind",
+            "Betty Boop du Clos de Seawind",
+            "Ushuaia in Blue du Clos de Seawind",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+        ]
+      }
+    },
+    "TOP LESS ULTRAMARINE": {
+      "link": "our_collies.php?id=55&cat=Males&name=TOP LESS ULTRAMARINE",
+      "details": {
+        "images_list": [
+          "images/kolli/\u041c\u043e\u0440\u0438\u0441_\u043d\u0430_\u0441\u0430\u0439\u0442.jpg",
+          "/userfiles/\u043c\u043e\u0440\u0438\u0441(1).jpg",
+          "/userfiles/\u041c\u043e\u0440\u0438\u0441 \u043f\u043e\u0440\u0442\u0440\u0435\u0442 1(1).jpg",
+          "/userfiles/\u043a\u043e\u043b\u043b\u0438 \u043c\u043e\u0440\u0438 2.jpg",
+          "/userfiles/\u043c\u043e\u0440\u0438\u04412(1).jpg",
+          "/userfiles/8.jpg",
+          "/userfiles/13124534_1025991367456621_3705246859307759120_n.jpg"
+        ],
+        "breed_tree": {
+          "child": {}
+        },
+        "breed_table": [],
+        "dog_description": [
+          "\"Moris\"",
+          "Junior Champion of Ukraine, Champion of Ukraine, Club Winner -2016,",
+          "2xCACIB, 4xBOB",
+          "male, born 17.02.2014",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b: DM NN, PRA NN, MDR1 +/-"
+        ]
+      }
+    },
+    "TOP LESS NOBEL": {
+      "link": "our_collies.php?id=47&cat=Males&name=TOP LESS NOBEL",
+      "details": {
+        "images_list": [
+          "images/kolli/NOBEL.jpg",
+          "/userfiles/111.jpg",
+          "/userfiles/\u043a\u043e\u043b\u043b\u0438 \u041d\u043e\u0431\u0435\u043b\u044c.jpg",
+          "/userfiles/11.jpg",
+          "/userfiles/12.jpg",
+          "/userfiles/10305044_664653396923755_1186801920065740890_n.jpg"
+        ],
+        "breed_tree": {
+          "child": {
+            "\u0421H UA\nBlue Like My Dad\nHD-A": {
+              "INT CH\nVelvet in Blue de Cathyja": {
+                "Tricky Trooper de Cathyja": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Ouest Side Story Black de Cathyja": {}
+                },
+                "Tanagra de la Case du Bois Brisard": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Only The Very Best du Clos des Duchesses": {}
+                }
+              },
+              "Be My Little Baby du Clos des Duchesses": {
+                "Royal Black du Chemin des Randonn\u00e9es": {
+                  "Jamiroquai of Moon River": {},
+                  "Oxane du Chemin des Randonn\u00e9es": {}
+                },
+                "Vent d`Ouest du Clos des Duchesses": {
+                  "GB CH Top Gun du Clos des Duchesses at Steelhurst": {},
+                  "Reine de Saba du Pr\u00e9 Luneau": {}
+                }
+              }
+            },
+            "JCH UA\nTop Less Bellissima": {
+              "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A": {
+                "Seven`Up du Clos de Montamer": {
+                  "Rackham le Rouge du Clos des Duchesses": {},
+                  "Orea du Clos de Montamer": {}
+                },
+                "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer": {
+                  "INT CH, FR CH\nNarwick Silver Blue de Cathyja": {},
+                  "Orea du Clos de Montamer": {}
+                }
+              },
+              "JCH UA,CH UA\nTop Less Cayenne\nHD-A": {
+                "Royal Black du Chemin des Randonn\u00e9es": {
+                  "Jamiroquai of Moon River": {},
+                  "Oxane du Chemin des Randonn\u00e9es": {}
+                },
+                "CH\nTop Less Pina Colada": {
+                  "CH Clever Eyes Sharon Black Storm": {},
+                  "Bliss Model in Blue": {}
+                }
+              }
+            }
+          }
+        },
+        "breed_table": [
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tricky Trooper de Cathyja",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tricky Trooper de Cathyja",
+            "Ouest Side Story Black de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tanagra de la Case du Bois Brisard",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "INT CH\nVelvet in Blue de Cathyja",
+            "Tanagra de la Case du Bois Brisard",
+            "Only The Very Best du Clos des Duchesses"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Jamiroquai of Moon River"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Oxane du Chemin des Randonn\u00e9es"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Vent d`Ouest du Clos des Duchesses",
+            "GB CH Top Gun du Clos des Duchesses at Steelhurst"
+          ],
+          [
+            "\u0421H UA\nBlue Like My Dad\nHD-A",
+            "Be My Little Baby du Clos des Duchesses",
+            "Vent d`Ouest du Clos des Duchesses",
+            "Reine de Saba du Pr\u00e9 Luneau"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Rackham le Rouge du Clos des Duchesses"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "Seven`Up du Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer",
+            "INT CH, FR CH\nNarwick Silver Blue de Cathyja"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "INT.CH.\nVelours Noir du Clos de Montamer\nHD-A",
+            "VICE CH FR\nRhapsody in Blue\ndu Clos de Montamer",
+            "Orea du Clos de Montamer"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Jamiroquai of Moon River"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "Royal Black du Chemin des Randonn\u00e9es",
+            "Oxane du Chemin des Randonn\u00e9es"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "CH Clever Eyes Sharon Black Storm"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Bliss Model in Blue"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ],
+          [
+            "JCH UA\nTop Less Bellissima",
+            "JCH UA,CH UA\nTop Less Cayenne\nHD-A",
+            "CH\nTop Less Pina Colada",
+            "Nataly Shmatko\u00a0|\u00a0\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0432\u0438\u0437\u0438\u0442\u043a\u0443\n\n<!-- document.write(\"<a href='http://www.liveinternet.ru/click' \"+ \"target=_blank><img src='http://counter.yadro.ru/hit?t27.18;r\"+ escape(document.referrer)+((typeof(screen)==\"undefined\")?\"\": \";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+ \";\"+Math.random()+ \"' alt='' title='LiveInternet: \u00ef\u00ee\u00ea\u00e0\u00e7\u00e0\u00ed\u00ee \u00ea\u00ee\u00eb\u00e8\u00f7\u00e5\u00f1\u00f2\u00e2\u00ee \u00ef\u00f0\u00ee\u00f1\u00ec\u00ee\u00f2\u00f0\u00ee\u00e2 \u00e8\"+ \" \u00ef\u00ee\u00f1\u00e5\u00f2\u00e8\u00f2\u00e5\u00eb\u00e5\u00e9' \"+ \"border='0' width='88' height='120'><\\/a>\") //--> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23663500 = new Ya.Metrika({id:23663500, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = (d.location.protocol == \"https:\" ? \"https:\" : \"http:\") + \"//mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\");\nCopyright \u00a9 www.collie.com.ua"
+          ]
+        ],
+        "dog_description": [
+          "\"Nobel\"",
+          "Junior Champion of Ukraine,",
+          "Champion of Ukraine,",
+          "2xCACIB\nmale, born 05.02.2013\nco-own. E.Lugovskaya",
+          "\u0413\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0441\u0442\u044b : DM NN, PRA NN, MDR1 +/+"
+        ]
+      }
+    }
+  }
+}
