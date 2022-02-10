@@ -1,7 +1,15 @@
+import json
 from requests_html import HTMLSession
-from helpers import create_todays_path
 import pandas as pd
-from loguru import logger
+from datetime import datetime
+from aws_lambda_powertools import Logger
+
+logger = Logger(service="stn-craft-scraper")
+
+def create_todays_path():
+    now = datetime.now()
+    date_path = f"{now.strftime('%Y')}/{now.strftime('%m')}/{now.strftime('%d')}"
+    return date_path
 
 class ExportSTNCraft:
     def __init__(self):
@@ -58,7 +66,7 @@ class ExportSTNCraft:
 
 
 class Import2Prom:
-    def __init__(self, token):
+    def __init__(self, token=None):
         self.token = token
 
     def build_prom_csv(self, input_data):
@@ -66,7 +74,7 @@ class Import2Prom:
         https://public-api.docs.prom.ua/#/Products/post_products_import_file
         """
         logger.info("Building prom like csv...")
-        prom_schema = pd.read_csv('../../templates/prom_import_template.csv', sep=';')
+        prom_schema = pd.read_csv('templates/prom_import_template.csv', sep=';')
         prom_schema = prom_schema.append(input_data, ignore_index=True)
         prom_schema['Цена'] = [el.split('\xa0')[0].replace(' ', '') for el in prom_schema['Цена'].to_list()]
         prom_schema['Единица измерения'] = 'шт.'
@@ -75,11 +83,17 @@ class Import2Prom:
         filename = "stn_craft_runes_prom.csv"
         filepath = create_todays_path()
         logger.info(f"Saving {filename} to {filepath}")
-        prom_schema.to_csv(f'{filepath}/{filename}', index=False)
+        prom_schema.to_csv(f's3://eu-central-1-scraper-data/stn-craft/{filepath}/{filename}', index=False)
         return
 
 
-def scrape_the_data(event):
+def lambda_handler(event, context):
     parsed_df = ExportSTNCraft().export_runes_data()
-    Import2Prom('').build_prom_csv(parsed_df)
-    return "Build finished"
+    Import2Prom().build_prom_csv(parsed_df)
+
+    return {
+        "statusCode": 200,
+        "body": json.dumps({
+            "message": "Products sucessfully parsed and saved to s3 bucket"
+        }),
+    }

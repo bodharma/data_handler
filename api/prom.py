@@ -15,10 +15,10 @@ class Prom:
         }
 
     def build_prom_schema(self):
-        prom_schema = pd.read_csv('../templates/prom_import_template.csv', sep=';')
+        prom_schema = pd.read_csv('../stn-craft-scraper-lambda/scraper/templates/prom_import_template.csv', sep=';')
 
     def build_prom_csv(self, input_data):
-        prom_schema = pd.read_csv('../templates/prom_import_template.csv', sep=';')
+        prom_schema = pd.read_csv('../stn-craft-scraper-lambda/scraper/templates/prom_import_template.csv', sep=';')
         prom_schema = prom_schema.append(input_data, ignore_index=True)
         prom_schema['Цена'] = [el.split('\xa0')[0] for el in prom_schema['Цена'].to_list()]
         prom_schema['Единица измерения'] = 'шт.'

@@ -1,19 +1,22 @@
-name: Create Archive
-on: [push]
+name: Build and deploy stn craft scraper
+on:
+  push:
+    branches:
+      - main
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@master
-      with:
-        type: 'zip'
-        filename: 'release.zip'
-        exclusions: '*.git*'
-
-- name: Upload Release
-  uses: ncipollo/release-action@v1
-  with:
-    artifacts: "release.zip"
-    token: ${{ secrets.GITHUB_TOKEN }}
+     - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.10'
+      - uses: aws-actions/setup-sam@v1
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws_region: eu-central-1
+      - run: sam build --use-container
+      - run: sam package --s3-bucket eu-central-1-scraper-data --output-template-file packaged.yaml
+      - run: sam deploy --template-file packaged.yaml --stack-name scraper --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset --no-confirm-changeset

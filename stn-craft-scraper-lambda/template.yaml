@@ -1,0 +1,40 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  stn-craft-scraper
+
+  Sample SAM Template for stn-craft-scraper
+
+# More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
+Globals:
+  Function:
+    Timeout: 3
+
+Resources:
+  STNCraftScraperFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: scraper/
+      Handler: app.lambda_handler
+      Runtime: python3.9
+      Architectures:
+        - x86_64
+      Events:
+        STNCraftScraper:
+          Type: Schedule # More info about Event: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md
+          Properties:
+            Schedule: cron(0 6 * * ? *)
+            Name: daily-run
+            Description: Daily run at 06-00 am
+            Enabled: True
+
+Outputs:
+  # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function
+  # Find out more about other implicit resources you can reference within SAM
+  # https://github.com/awslabs/serverless-application-model/blob/master/docs/internals/generated_resources.rst#api
+  STNCraftScraperFunction:
+    Description: "STNCraftScraper Lambda Function ARN"
+    Value: !GetAtt STNCraftScraperFunction.Arn
+  STNCraftScraperFunctionIamRole:
+    Description: "Implicit IAM Role created for STNCraftScraper function"
+    Value: !GetAtt STNCraftScraperFunctionRole.Arn

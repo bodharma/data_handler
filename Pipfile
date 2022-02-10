@@ -9,6 +9,10 @@ pandas = "*"
 httpx = "*"
 pydot = "*"
 loguru = "*"
+boto3 = "*"
+fsspec = "*"
+aws-lambda-powertools = "*"
+s3fs = "*"
 
 [dev-packages]
 
