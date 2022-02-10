@@ -1,4 +1,6 @@
 import json
+import os
+
 from requests_html import HTMLSession
 import pandas as pd
 from datetime import datetime
@@ -83,7 +85,7 @@ class Import2Prom:
         filename = "stn_craft_runes_prom.csv"
         filepath = create_todays_path()
         logger.info(f"Saving {filename} to {filepath}")
-        prom_schema.to_csv(f's3://eu-central-1-scraper-data/stn-craft/{filepath}/{filename}', index=False)
+        prom_schema.to_csv(f's3://{os.environ.get("S3_BUCKET")}/stn-craft/{filepath}/{filename}', index=False)
         return
 
 
