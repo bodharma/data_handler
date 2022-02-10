@@ -18,6 +18,7 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: eu-central-1
+      - run: cd stn-craft-scraper-lambda
       - run: sam build --use-container
       - run: sam package --s3-bucket eu-central-1-scraper-data --output-template-file packaged.yaml
       - run: sam deploy --template-file packaged.yaml --stack-name scraper --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset --no-confirm-changeset
