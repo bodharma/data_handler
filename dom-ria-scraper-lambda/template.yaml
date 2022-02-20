@@ -25,7 +25,7 @@ Resources:
           Type: Schedule # More info about Event: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md
           Properties:
             Schedule: cron(0 6 * * ? *)
-            Name: daily-run
+            Name: daily-run-dom-ria
             Description: Daily run at 06-00 am
             Enabled: True
 
