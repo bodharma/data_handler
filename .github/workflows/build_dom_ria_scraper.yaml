@@ -1,4 +1,4 @@
-name: Build and deploy stn craft scraper
+name: Build and deploy dom ria scraper
 on:
   push:
     branches:
