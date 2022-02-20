@@ -113,15 +113,14 @@ class DomScraper:
         self.export_flats_ids_to_s3(flats_ids_df)
 
 
-def create_storage_folder(granularity='minute'):
+def create_storage_path(granularity='minute'):
     now = datetime.now()
     if granularity == 'hour':
-        filepath = Path(f"{now.year}/{now.month}/{now.day}/{now.hour}")
+        filepath = f"{now.year}/{now.month}/{now.day}/{now.hour}"
     elif granularity == 'day':
-        filepath = Path(f"{now.year}/{now.month}/{now.day}")
+        filepath = f"{now.year}/{now.month}/{now.day}"
     else:
-        filepath = Path(f"{now.year}/{now.month}/{now.day}/{now.hour}/{now.minute}")
-    filepath.mkdir(parents=True, exist_ok=True)
+        filepath = f"{now.year}/{now.month}/{now.day}/{now.hour}/{now.minute}"
     return filepath
 
 
