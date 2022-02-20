@@ -1,0 +1,25 @@
+name: Build and deploy stn craft scraper
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.10'
+      - uses: aws-actions/setup-sam@v1
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-central-1
+      - run: |
+         cd dom-ria-scraper-lambda
+         sam build --use-container
+         sam package --s3-bucket eu-central-1-scraper-data --output-template-file packaged.yaml
+         sam deploy --template-file packaged.yaml --stack-name scraper --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset --no-confirm-changeset

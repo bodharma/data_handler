@@ -10,7 +10,7 @@ logger = Logger(service="stn-craft-scraper")
 
 def create_todays_path():
     now = datetime.now()
-    date_path = f"{now.strftime('%Y')}/{now.strftime('%m')}/{now.strftime('%d')}"
+    date_path = f"{now.year}/{now.month}/{now.day}"
     return date_path
 
 class ExportSTNCraft:
