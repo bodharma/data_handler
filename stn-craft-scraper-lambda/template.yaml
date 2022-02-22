@@ -18,6 +18,8 @@ Resources:
       CodeUri: scraper/
       Handler: app.lambda_handler
       Runtime: python3.9
+      Environment:
+        S3_BUCKET: eu-central-1-scraper-data
       Architectures:
         - x86_64
       Events:

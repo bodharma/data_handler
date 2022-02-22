@@ -5,7 +5,6 @@ import httpx
 from httpcore import ReadTimeout
 import pandas as pd
 from datetime import datetime
-from pathlib import Path
 from time import sleep
 import math
 from aws_lambda_powertools import Logger
@@ -86,14 +85,14 @@ class DomScraper:
     def export_flats_ids_to_s3(self, flats_ids_df, page=0):
         now = datetime.now()
         filename = f"flat_ids_list_{now.hour}_page_{page}.csv"
-        filepath = f"{create_storage_folder()}"
+        filepath = f"{create_storage_path()}"
         flats_ids_df.to_csv(f'{self.s3_bucket_base_path}/{filepath}/{filename}', index=False)
         logger.info(f"Data written to {filepath}:{filename}")
 
     def export_flats_info_to_s3(self, flats_df):
         now = datetime.now()
         filename = f"flats_data_list_{now.hour}_page.csv"
-        filepath = f"{create_storage_folder()}"
+        filepath = f"{create_storage_path()}"
         flats_df.to_csv(f'{self.s3_bucket_base_path}/{filepath}/{filename}', index=False)
         logger.info(f"Data written to {filepath}:{filename}")
 
