@@ -37,13 +37,13 @@ class DomScraper:
         if resp.status_code == 200:
             return True
         elif resp.status_code == 429:
-            logger.warning(f"Quota is reached at {self.allowed_requests_per_hour} sleeping 1h")
-            sleep(3660)
-            logger.warning(f"Woke up. Resetting allowed requests from {self.allowed_requests_per_hour} to 1000")
-            self.allowed_requests_per_hour = 1000
-            return False
+            msg = f"Quota is reached at {self.allowed_requests_per_hour} need to wait 1h"
+            logger.warning(msg)
+            sys.exit(msg)
         else:
-            logger.exception(f"Received {resp.status_code} with content: {resp.content}")
+            msg = f"Received {resp.status_code} with content: {resp.content}"
+            logger.exception(msg)
+            sys.exit(msg)
 
     def get_flats_ids_df(self):
         current_page = 0
@@ -75,11 +75,15 @@ class DomScraper:
         try:
             resp = httpx.get(f"https://developers.ria.com/dom/info/{flat_id}?api_key={self.ria_api_key}")
             if self.quota_is_not_reached(resp):
-                return pd.DataFrame(resp.json())
+                try:
+                    resp = pd.DataFrame(resp.json())
+                except ValueError as e:
+                    resp = pd.DataFrame.from_dict(resp.json(), orient='index')
+                return resp
             else:
                 self.get_flat_info(flat_id)
         except ReadTimeout:
-            sleep(30)
+            sleep(5)
             self.get_flat_info(flat_id)
 
     def export_flats_ids_to_s3(self, flats_ids_df, page=0):
@@ -99,16 +103,18 @@ class DomScraper:
 
     def get_flats_data(self, flats_ids_df):
         number_of_flats = flats_ids_df['items'].count()
-        flats_df = pd.DataFrame()
+        flats_df_list = []
         for ind in flats_ids_df.index:
-            flats_df = pd.concat([flats_df, self.get_flat_info(ind['items'])], ignore_index=True)
-            ind['checked'] = True
+            flats_df_list.append(self.get_flat_info(flats_ids_df['items'][ind]))
+            flats_ids_df.loc[flats_ids_df.index == ind, 'checked'] = True
             number_of_flats -= 1
-            logger.debug(f"Flats remaining {number_of_flats}/{len(flats_ids_df['items'].count())}")
+            logger.debug(f"Flats remaining {number_of_flats}/{flats_ids_df['items'].count()}")
             if self.allowed_requests_per_hour < 2:
-                self.export_flats_info_to_s3(flats_df)
+                flats_df_list = pd.concat(flats_df_list, axis=0, ignore_index=True)
+                self.export_flats_info_to_s3(flats_df_list)
                 self.export_flats_ids_to_s3(flats_ids_df)
-        self.export_flats_info_to_s3(flats_df)
+        flats_df_list = pd.concat(flats_df_list, axis=0, ignore_index=True)
+        self.export_flats_info_to_s3(flats_df_list)
         self.export_flats_ids_to_s3(flats_ids_df)
 
 
@@ -123,14 +129,14 @@ def create_storage_path(granularity='minute'):
     return filepath
 
 
-def lambda_handler(event, context):
+if __name__ == "__main__":
     dom = DomScraper()
     flats_id_df = dom.get_flats_ids_df()
     dom.get_flats_data(flats_id_df)
-    return {
-        "statusCode": 200,
-        "body": json.dumps({
-            "message": "Flats data sucessfully parsed and saved to s3 bucket"
-        }),
-    }
+    # return {
+    #     "statusCode": 200,
+    #     "body": json.dumps({
+    #         "message": "Flats data sucessfully parsed and saved to s3 bucket"
+    #     }),
+    # }
 
