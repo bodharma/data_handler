@@ -10,6 +10,10 @@ Globals:
   Function:
     Timeout: 900
     MemorySize: 256
+    Environment:
+      Variables:
+        RIA_API_KEY: rt8cOYueGa9MszxZSIPsE7TGMXfkQC1vsFsJDacc
+        S3_BUCKET: eu-central-1-scraper-data
 
 Resources:
   DomRiaScraperFunction:
@@ -28,9 +32,6 @@ Resources:
             Name: daily-run-dom-ria
             Description: Daily run at 06-00 am
             Enabled: True
-            Environment:
-              RIA_API_KEY:
-              S3_BUCKET: eu-central-1-scraper-data
 
 Outputs:
   # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function
