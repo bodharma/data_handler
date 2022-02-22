@@ -20,6 +20,6 @@ jobs:
           aws-region: eu-central-1
       - run: |
          cd dom-ria-scraper-lambda
-         sam build --use-container
-         sam package --s3-bucket eu-central-1-scraper-data --output-template-file packaged.yaml
-         sam deploy --template-file packaged.yaml --stack-name scraper --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset --no-confirm-changeset
+         sam build --use-container -t dom.yaml
+         sam package --s3-bucket eu-central-1-scraper-data --output-template-file packaged.yaml --region eu-central-1
+         sam deploy --template-file packaged.yaml --stack-name dom-scraper --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset --no-confirm-changeset --region eu-central-1

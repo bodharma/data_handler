@@ -98,7 +98,7 @@ class DomScraper:
 
 
     def get_flats_data(self, flats_ids_df):
-        number_of_flats = len(flats_ids_df['items'].count())
+        number_of_flats = flats_ids_df['items'].count()
         flats_df = pd.DataFrame()
         for ind in flats_ids_df.index:
             flats_df = pd.concat([flats_df, self.get_flat_info(ind['items'])], ignore_index=True)
