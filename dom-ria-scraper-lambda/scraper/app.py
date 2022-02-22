@@ -39,7 +39,7 @@ class DomScraper:
         elif resp.status_code == 429:
             msg = f"Quota is reached at {self.allowed_requests_per_hour} need to wait 1h"
             logger.warning(msg)
-            sys.exit(msg)
+            return False
         else:
             msg = f"Received {resp.status_code} with content: {resp.content}"
             logger.exception(msg)
@@ -81,7 +81,7 @@ class DomScraper:
                     resp = pd.DataFrame.from_dict(resp.json(), orient='index')
                 return resp
             else:
-                self.get_flat_info(flat_id)
+                return False
         except ReadTimeout:
             sleep(5)
             self.get_flat_info(flat_id)
@@ -105,10 +105,15 @@ class DomScraper:
         number_of_flats = flats_ids_df['items'].count()
         flats_df_list = []
         for ind in flats_ids_df.index:
-            flats_df_list.append(self.get_flat_info(flats_ids_df['items'][ind]))
+            df = self.get_flat_info(flats_ids_df['items'][ind])
+            if not df:
+                flats_df_list = pd.concat(flats_df_list, axis=0, ignore_index=True)
+                self.export_flats_info_to_s3(flats_df_list)
+                self.export_flats_ids_to_s3(flats_ids_df)
+            flats_df_list.append(df)
             flats_ids_df.loc[flats_ids_df.index == ind, 'checked'] = True
             number_of_flats -= 1
-            logger.debug(f"Flats remaining {number_of_flats}/{flats_ids_df['items'].count()}")
+            logger.info(f"Flats remaining {number_of_flats}/{flats_ids_df['items'].count()}")
             if self.allowed_requests_per_hour < 2:
                 flats_df_list = pd.concat(flats_df_list, axis=0, ignore_index=True)
                 self.export_flats_info_to_s3(flats_df_list)
